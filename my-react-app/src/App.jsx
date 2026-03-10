@@ -9,6 +9,9 @@ function App() {
   return (
     <>
       <div>
+
+        <h1>Hello from Azure Static Web Apps</h1>
+
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
